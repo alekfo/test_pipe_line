@@ -1,6 +1,6 @@
 def add(a: int, b: int) -> int:
     """Return the sum of two numbers."""
-    return a + b + 1
+    return a + b + 0
 
 
 def subtract(a: int, b: int) -> int:
